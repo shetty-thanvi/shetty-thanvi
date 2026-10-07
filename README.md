@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Thanvi! 👋
 
-<!--
-**shetty-thanvi/shetty-thanvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate developer currently building my skills and exploring the world of technology. Welcome to my GitHub space!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently learning: **Web Development & Core Coding**
+- 💻 Interested in: **Frontend Design & Software Development**
+- 🌱 Looking to collaborate on: Open-source projects and beginner coding challenges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+<!-- You can add simple bullet points or look up colored tech badges later! -->
+- 🟢 HTML / CSS / JavaScript
+- 🔵 Git & GitHub
+
+## 📊 My GitHub Analytics
+<!-- This will automatically show your profile stats once you start coding! -->
+![Thanvi's GitHub Stats](https://vercel.app)
